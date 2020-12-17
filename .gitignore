@@ -1,0 +1,6 @@
+.idea/
+*.iml
+.ijwb/
+lib/
+out/
+bazel-*/

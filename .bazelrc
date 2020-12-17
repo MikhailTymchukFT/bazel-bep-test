@@ -1,0 +1,3 @@
+test --nocache_test_results
+test --local_cpu_resources=1
+test --local_ram_resources=HOST_RAM*.005
